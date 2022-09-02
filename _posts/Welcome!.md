@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+title: Welcome!
 ---
 
 Hi and welcome to my homepage! I'm a PhD student in Cognitive Science/Psychology (yes, that is the program name; no, they couldn't make up their mind whether its "psychology" or "science") at Stony Brook University, located on Long Island, NY. 
