@@ -5,7 +5,7 @@ permalink: /home/
 ---
 
 
-I'm a PhD student in Cognitive Science/Psychology (yes, that is the program name; yes, it relates to the discussion about whether it's "psychology" or "science") at Stony Brook University, located on Long Island, NY. 
+I'm a PhD student in Cognitive Science/Psychology at Stony Brook University, located on Long Island, New York. 
 
 Broadly speaking, I study "collective cognition" using behavioral and computational methods. I've investigated contagion mechanisms of (false) memories, simulated agents to investigate origins of domain differences in exploratory choice, and recently focused on social learning in complex decision-making tasks. 
 
